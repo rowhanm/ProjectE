@@ -1,0 +1,7 @@
+[package]
+name = "rust_2"
+version = "0.1.0"
+authors = ["Rohan Mahadev <rohan@aitoelabs.com>"]
+edition = "2018"
+
+[dependencies]
